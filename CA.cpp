@@ -1,5 +1,5 @@
 /*
-    Generates animal-skin inspired patterns in black and white by the use af
+    Generates animal-skin inspired patterns in black and white by the use of
     an Activator-Inhibitor Celuar Automata.
 */
 
