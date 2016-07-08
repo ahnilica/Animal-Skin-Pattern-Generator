@@ -19,5 +19,7 @@ Step 2)  Execute script. Using no command line args, paramiter values are pre-se
 ##Example Paramiter Settings:
 
   Dalmation:        2 1 -1 4 9
+  
   Crazy Pattern:    1.5 0.5 -0.5 10 14
+  
   Blobs:            1.5 0.5 -0.5 10 15
