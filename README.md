@@ -5,7 +5,7 @@ This process starts with randomly setting a grid of "cells" to each have a value
 
 ##Examples of Generated Images:
 ![Crazy Pattern](/examples/crazy-pattern.jpg)
-![Dalmation](/examples/dalmation.jpg)
+![Dalmatian](/examples/dalmatian.jpg)
 ![Dots](/examples/small-dots.jpg)
 ![Other](/examples/other.jpg)
   
@@ -16,9 +16,9 @@ Step 2)  Execute script. Using no command line args, parameter values are pre-se
 
     USAGE: double h, double J1, double J2, int R1, int R2, (optional int maxSteps) string outputFilename
 
-##Example Paramiter Settings:
+##Example Parameter Settings:
 
-  Dalmation:        2 1 -1 4 9
+  Dalmatian:        2 1 -1 4 9
   
   Crazy Pattern:    1.5 0.5 -0.5 10 14
   
