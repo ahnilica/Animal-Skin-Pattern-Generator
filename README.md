@@ -4,9 +4,10 @@ C++ implementation of an Activator-Inhibitor Cellular Automata, used for generat
 This process starts with randomly setting a grid of "cells" to each have a value of either 0 or 1. Each cell is randomly picked and updated based on a rule that will either change or not change the value of the cell. When the grid converges to a stable state or the max number of steps has been reached, a PGM image of the grid is generated. 
 
 ##Examples of Generated Images:
-![Crazy Pattern](/examples/crazy.jpg)
-![Dalmation](/examples/dal.jpg)
-![Dots](/examples/dots.jpg)
+![Crazy Pattern](/examples/crazy-pattern.jpg)
+![Dalmation](/examples/dalmation.jpg)
+![Dots](/examples/small-dots.jpg)
+![Other](/examples/other.jpg)
   
 
 Step 1)  Compile CA.cpp using g++ (no other libraries needed)
