@@ -12,7 +12,7 @@ This process starts with randomly setting a grid of "cells" to each have a value
 
 Step 1)  Compile CA.cpp using g++ (no other libraries needed)
 
-Step 2)  Execute script. Using no command line args, paramiter values are pre-seset to an interesting patter. To input own custom paramiters, include them as command line arguments. 
+Step 2)  Execute script. Using no command line args, parameter values are pre-set to an interesting pattern. To input your own custom parameters, include them as command line arguments. 
 
     USAGE: double h, double J1, double J2, int R1, int R2, (optional int maxSteps) string outputFilename
 
