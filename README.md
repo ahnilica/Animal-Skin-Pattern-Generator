@@ -15,4 +15,9 @@ Step 1)  Compile CA.cpp using g++ (no other libraries needed)
 Step 2)  Execute script. Using no command line args, paramiter values are pre-seset to an interesting patter. To input own custom paramiters, include them as command line arguments. 
 
     USAGE: double h, double J1, double J2, int R1, int R2, (optional int maxSteps) string outputFilename
-       
+
+##Example Paramiter Settings:
+
+  Dalmation:        2 1 -1 4 9
+  Crazy Pattern:    1.5 0.5 -0.5 10 14
+  Blobs:            1.5 0.5 -0.5 10 15
