@@ -2,6 +2,8 @@
 C++ implementation of an Activator-Inhibitor Cellular Automata, used for generating images that reflect many natural forming patterns, such as zebra skin. 
 
 This process starts with randomly setting a grid of "cells" to each have a value of either 0 or 1. Each cell is randomly picked and updated based on a rule that will either change or not change the value of the cell. When the grid converges to a stable state or the max number of steps has been reached, a PGM image of the grid is generated. 
+![Distance Formula](/examples/distanceFormula.png)
+![Cell State Update Formua](/examples/cellStateFormula.png)
 
 ## Examples of Generated Images:
 ![Crazy Pattern](/examples/crazy-pattern.jpg)
